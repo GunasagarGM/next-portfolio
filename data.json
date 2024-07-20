@@ -52,13 +52,13 @@
       "category": "Backend"
     },
     {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
-    },
-    {
       "name": "GitHub",
       "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "MySQL",
+      "image": "https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000",
       "category": "Tools"
     }
   ],
@@ -99,16 +99,16 @@
   ],
   "educations": [
     {
-      "institute": "XYZ School | CBSE",
-      "degree": "HSC Science",
-      "duration": "2014 - 2016"
+      "institute": "KLE's S.NIJALINGAPPA P.U.COLLEGE",
+      "degree": "PCMB Science",
+      "duration": "2019 - 2021"
     },
     {
-      "institute": "XYZ College Of Engineering",
-      "degree": "B.Tech CSE",
-      "duration": "2016 - 2020",
+      "institute": "Donbosco Institute of Technology",
+      "degree": "B.E CSE",
+      "duration": "2021 - 2025",
       "desc": [
-        "Pursuing IT Engineering course from ABC University",
+        "Pursuing IT Engineering course from VTU University",
         "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
         "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
       ]
@@ -116,22 +116,10 @@
   ],
   "experiences": [
     {
-      "company": "ABC Tech Solutions",
+      "company": "Currently Student",
       "position": "Web Developer",
-      "duration": "2020 -2022",
+      "duration": "2021 - Present",
       "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
-      ]
-    },
-    {
-      "company": "XYZ Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2022 - present",
-      "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
         "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
       ]
     }
