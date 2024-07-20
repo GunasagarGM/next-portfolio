@@ -3,13 +3,23 @@ import HomePage from "./HomePage"
 // import { ref, get } from "firebase/database"
 // import { database } from "@/firebase"
 
+import fs from 'fs'
+import path from 'path'
+
+// async function getData() {
+
+//   // return await (await get(ref(database))).val()
+
+//   const DB_URL = process.env.NEXT_PUBLIC_FIREBASE_DATABASE_URL + '/.json'
+//   const res = await fetch(DB_URL, { cache: 'no-store' })
+//   const data = res.json()
+//   return data
+// }
+
 async function getData() {
-
-  // return await (await get(ref(database))).val()
-
-  const DB_URL = process.env.NEXT_PUBLIC_FIREBASE_DATABASE_URL + '/.json'
-  const res = await fetch(DB_URL, { cache: 'no-store' })
-  const data = res.json()
+  const filePath = path.resolve(process.cwd(), 'data.json')
+  const fileContents = fs.readFileSync(filePath, 'utf8')
+  const data = JSON.parse(fileContents)
   return data
 }
 
