@@ -43,8 +43,18 @@
       "category": "Frontend"
     },
     {
+      "name": "CSS",
+      "image": "https://img.icons8.com/?size=120&id=3BTBsJs5myRy&format=png",
+      "category": "Frontend"
+    },
+    {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "Reactjs",
+      "image": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png",
       "category": "Frontend"
     },
     {
