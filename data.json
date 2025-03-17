@@ -31,10 +31,6 @@
     {
       "icon": "FaGithub",
       "link": "https://github.com/GunasagarGM"
-    },
-    {
-      "icon": "FaInstagram",
-      "link": "https://www.instagram.com/gunasagar_2003?igsh=enV1ajd5ajQzYWl4"
     }
   ],
   "skills": [
@@ -98,10 +94,10 @@
       }
     },
     {
-      "name": "What's APP Chat Analysis",
-      "techstack": "Flutter, Dart, Firebase,Data Analysis",
+      "name": "Whatsapp Chat Analysis",
+      "techstack": "Data Analysis",
       "category": "Data Analysis",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "image": "https://toolzin.com/uploads/cache/optimized/f43f86125bb345fcad68d32633f10943.png.webp",
       "links": {
         "code": "",
         "video": "",
