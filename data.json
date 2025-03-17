@@ -77,8 +77,19 @@
     },
     {
       "name": "Project Title",
-      "techstack": "Flutter, Dart, Firebase",
+      "techstack": "Flutter, Dart, Firebase,Data Analysis",
       "category": "Flutter",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "What's APP Chat Analysis",
+      "techstack": "Flutter, Dart, Firebase,Data Analysis",
+      "category": "Data Analysis",
       "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
       "links": {
         "code": "",
