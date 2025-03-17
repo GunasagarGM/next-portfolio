@@ -38,6 +38,11 @@
   ],
   "skills": [
     {
+      "name": "HTML",
+      "image": "https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle.png",
+      "category": "Frontend"
+    },
+    {
       "name": "JavaScript",
       "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
       "category": "Frontend"
